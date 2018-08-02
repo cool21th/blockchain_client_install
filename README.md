@@ -4,6 +4,7 @@
 ###########################################################
 ########Bitcoin core source code & library download #######
 ###########################################################
+
 mkdir src
 cd src
 sudo apt install git
