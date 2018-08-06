@@ -26,8 +26,14 @@ Ethereum Editor tool setting
 
     5. VIM
         - https://github.com/tomlion/vim-solidity
-    
+
 
 If you are on windows, open up your terminal as administrator and run the following command
     
     npm install --global --production windows-build-tools 
+
+NPM install list
+    
+    npm i solc
+    npm i mocha ganache-cli web3
+    npm i truffle-hdwallet-provider
